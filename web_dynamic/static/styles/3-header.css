@@ -3,6 +3,9 @@ header {
 	height: 70px;
 	width: 100%;
 	border-bottom: 1px solid #CCCCCC;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
 header .logo {
@@ -11,7 +14,11 @@ header .logo {
 	height: 100%;
 }
 
-header #api_status {
+header .available {
+	background-color: #ff545f;
+}
+
+header div {
 	background-color: #cccccc;
 	height: 40px;
 	width: 40px;
@@ -20,6 +27,3 @@ header #api_status {
 	float: right;
 }
 
-header .available {
-	background-color: #ff545f;
-}
