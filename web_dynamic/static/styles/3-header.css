@@ -13,10 +13,16 @@ header .logo {
 
 header #api_status {
     border-radius: 20px;
+    border-right: 30px;
     position: absolute;
     top: 0;
     bottom: 0;
     left: 0;
     right: 0;
     margin: auto;
+    background-color: #cccccc;
+}
+
+header .available {
+    background-color: #ff545f;
 }
