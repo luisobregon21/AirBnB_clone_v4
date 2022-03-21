@@ -160,6 +160,7 @@ Jhoan Zamora - [Github](https://github.com/jzamora5) / [Twitter](https://twitter
 David Ovalle - [Github](https://github.com/Nukemenonai) / [Twitter](https://twitter.com/disartDave)
   
 Luis Obregon - [Github](https://github.com/luisobregon21)
+  
 Gabriela Martinez - [Github](https://github.com/GabsMermaid)
 
 Second part of Airbnb: Joann Vuong
